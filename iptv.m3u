@@ -1,895 +1,800 @@
 #EXTM3U
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-https://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports PREMIEUM 1 SERIA A FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/231223
-#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports premium 1 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/231225
-#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AR- AD SPORT 1 ASIA HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/257235
-#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AR- AD SPORT 2 ASIA HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/257236
-#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports 2 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18286
-#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports 1 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18287
-#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports 3 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18285
-#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports 4 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18284
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS NEWS HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33274
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS NEWS HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193633
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS GLOBAL HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33275
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS GLOBAL HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193634
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 1 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216540
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216542
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM  1 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9494
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM 1 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33268
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM  2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9496
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM 2 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33269
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM  3 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9497
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM 3 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33270
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9480
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33261
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/13371
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33262
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9484
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33263
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9486
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33264
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9488
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33265
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9490
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33266
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9492
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33267
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS XTRA 1 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33271
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS XTRA 2 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33272
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD EN
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/132019
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD+ EN
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150538
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD EN
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/132020
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD+  EN
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150539
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HD+ EN
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150540
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD FR
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/132022
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD+ FR
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150541
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD FR
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193629
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD+ FR
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193631
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HD FR
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193630
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HD+ FR
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193632
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 1 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127191
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 1 SD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161721
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 2 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127192
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 2 SD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161722
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 3 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127193
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 3 SD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161723
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1  SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127184
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 SD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161714
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2  SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127185
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 SD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161715
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3  SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127186
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 SD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161716
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127187
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 SD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161717
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127188
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 SD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161718
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127189
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 SD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161719
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127190
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 SD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161720
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 SD EN
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127194
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 SD+ EN
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161724
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 SD EN
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127195
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 SD+ EN
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161725
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 1 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216544
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 1 FHD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216545
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 2 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216546
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 2 FHD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216547
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 1 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/97378
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 2 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83621
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 3 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83620
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83628
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83627
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83626
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83625
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83624
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83623
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83622
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 FHD EN
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83619
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 FHD EN
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83618
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 1 4K
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193642
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 2 4K
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193643
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 3 4K
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193644
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 4K
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192818
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 4K
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193636
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/BEIN-SPORTS-3-HD.png",BEIN  SPORTS 3 4K
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193637
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/beinsports4.png",BEIN SPORTS 4 4K
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193638
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/beinsports5.png",BEIN SPORTS 5 4K
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193639
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/beinsports6.png",BEIN SPORTS 6 4K
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193640
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/beinsports7.png",BEIN SPORTS 7 4K
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193641
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 1 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/121347
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 2 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83608
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 3 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83607
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83616
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83615
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83614
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83613
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83612
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83611
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83610
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 1 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291774
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 2 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291773
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291782
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 2 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291786
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 3 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291772
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 3 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291777
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 3 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291778
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 2 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291779
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 3 HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291776
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291775
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291783
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291785
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC HEVC
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291780
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 1 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217848
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 1 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217849
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217850
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 3 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217851
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 4 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217852
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 5 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217853
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 5 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217854
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 6 SD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217855
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 6 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217856
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ABU-DHABISPORT-1-HD.png",Abu Dhabi Sports Asia 1 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/219654
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ABU-DHABISPORT-2-HD.png",Abu Dhabi Sports  Asia 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/219655
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 1 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189560
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189561
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 3 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189562
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 1 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50385
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 2 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/85659
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 3 FHD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189558
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/alkass1.jpg",Al Kass Sport 1 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18747
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/alkass1.jpg",Al Kass Sport 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18746
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/alkass1.jpg",Al Kass Sport 3 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18745
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/alkass1.jpg",Al Kass Sport 4 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18744
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KSA-SPORT.jpg",KSA SPORTS 1 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50397
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KSA-SPORT.jpg",KSA SPORTS 2 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50394
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KSA-SPORT.jpg",KSA SPORTS 1 HD+
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50395
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KSA-SPORT.jpg",KSA SPORTS 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50396
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",KSA SPORTS  3 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/97209
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",KSA SPORTS  4 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/97210
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/dubaisport1.png",Dubai Sport 1
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50390
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/dubaisport1.png",Dubai Sport 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50388
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/dubaisportschannel3.png",Dubai Sport 3 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/85472
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/AL-SHABAB-SPORT-HD.jpg",Al Shabab Sport HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/219657
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/neelainsport.jpg",Neelain Sport
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50382
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/NILE-SPORT.jpg",Nile Sport
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50386
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/AL-AHLY-TV.jpg",Al Ahly TV
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173916
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ZAMALEK-SPORTS.jpg",Zamalek Sport
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173917
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/jordansport.png",Jordan Sport
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50381
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/aliraqiya.png",Iraqiya Sport
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50387
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/DMC-SPORTS.png",Dmc Sport
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50391
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bahrainsport2.jpg",BAHRAIN SPORT 2 HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50392
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/yassport.jpg",Yas Sport HD
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173919
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bahrainsport2.jpg",Bahrian Sport 1
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173920
-#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kuwaittvsport.png",Kuwait Sport
-http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173921
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",|.AR.| BEIN SPORTS NEWS HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9152
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",|.AR.| BEIN SPORTS NEWS FHD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/92512
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORTS GLOBAL
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9156
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORT GLOBAL HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30750
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORTS GLOBAL FHD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/92511
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 SD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32008
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9147
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD 4K
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30756
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD HEVC
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/39224
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 SD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32007
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9148
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9149
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD 4K
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30757
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD HEVC
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/39225
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 SD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32006
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9150
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9151
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD 4K
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30758
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD HEVC
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/39226
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 SD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32015
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9131
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png",|.AR.| BEIN SPORTS 1 FHD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32146
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png",|.AR.| BEIN SPORTS 1 FHD 4K
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30749
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 FHD HEVC
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/28265
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 SD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32014
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports2.tr.png",|.AR.| BEIN SPORTS 2 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9134
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 FHD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9135
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 FHD 4K
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30751
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png",|.AR.| BEIN SPORTS 3 SD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32013
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png",|.AR.| BEIN SPORTS 3 FHD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9137
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9138
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 FHD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/103764
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 FHD 4K
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30755
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 SD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32011
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 FHD HEVC
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/28269
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 SD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32010
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9142
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9143
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD 4K
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30759
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD HEVC
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/28270
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 SD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32009
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9144
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9145
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD 4K
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30760
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD HEVC
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/28271
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 1 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9153
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 2 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9154
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 3 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9155
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png",|.AR.| BEIN SPORTS XTRA 2 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/119958
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png",|.AR.| BEIN SPORTS FRENCH 1 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124099
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png",|.AR.| BEIN SPORTS FRENCH 3 HD
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124098
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX FHD 4K (WC QATAR 2022)
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124089
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX HD (WC QATAR 2022)
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124086
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX FHD (WC QATAR 2022)
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124092
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX FHD 4K (WC QATAR 2022)
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124094
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX HD (WC QATAR 2022)
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124091
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",|.AR.| BEIN SPORTS 6 MAX HD (WC QATAR 2022)
-http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124096
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",|.AR.| BEIN SPORTS NEWS HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9152
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",|.AR.| BEIN SPORTS NEWS FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/92512
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORTS GLOBAL
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9156
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORT GLOBAL HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30750
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORTS GLOBAL FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/92511
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32008
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9146
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9147
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD 4K
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30756
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD HEVC
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/39224
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32007
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9148
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9149
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD 4K
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30757
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD HEVC
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/39225
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32006
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9150
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9151
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD 4K
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30758
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD HEVC
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/39226
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32015
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9131
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png",|.AR.| BEIN SPORTS 1 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32146
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png",|.AR.| BEIN SPORTS 1 FHD 4K
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30749
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 FHD HEVC
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28265
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32014
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports2.tr.png",|.AR.| BEIN SPORTS 2 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9134
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9135
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 FHD 4K
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30751
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 FHD HEVC
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28266
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png",|.AR.| BEIN SPORTS 3 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32013
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png",|.AR.| BEIN SPORTS 3 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9136
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png",|.AR.| BEIN SPORTS 3 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9137
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png",|.AR.| BEIN SPORTS 3 FHD 4K
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30752
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png",|.AR.| BEIN SPORTS 3 FHD HEVC
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28267
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9138
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/103764
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 FHD 4K
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30755
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 FHD HEVC
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28268
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32011
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9140
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9141
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 FHD 4K
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30754
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 FHD HEVC
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28269
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32010
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9142
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9143
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD 4K
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30759
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD HEVC
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28270
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32009
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9144
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9145
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD 4K
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30760
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD HEVC
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28271
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 1 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9153
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 2 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9154
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 3 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9155
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png",|.AR.| BEIN SPORTS XTRA 1 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/119957
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png",|.AR.| BEIN SPORTS XTRA 2 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/119958
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png",|.AR.| BEIN SPORTS FRENCH 1 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124099
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png",|.AR.| BEIN SPORTS FRENCH 2 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124097
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png",|.AR.| BEIN SPORTS FRENCH 3 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124098
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX FHD (WC QATAR 2022)
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124087
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX FHD 4K (WC QATAR 2022)
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124089
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX HD (WC QATAR 2022)
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124086
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX SD (WC QATAR 2022)
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124085
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX FHD (WC QATAR 2022)
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124092
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX FHD 4K (WC QATAR 2022)
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124094
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX HD (WC QATAR 2022)
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124091
-#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",|.AR.| BEIN SPORTS 6 MAX HD (WC QATAR 2022)
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124096
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png",|FR| BEIN SPORT 1
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15204
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png",|FR| BEIN SPORT 1 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9340
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png",|FR| BEIN SPORT 1 HD BKP
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9345
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png",|FR| BEIN SPORT 1 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/51102
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png",|FR| BEIN SPORT 2
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15203
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png",|FR| BEIN SPORT 2 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9339
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png",|FR| BEIN SPORT 2 HD BKP
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9344
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png",|FR| BEIN SPORT 2 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9588
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png",|FR| BEIN SPORT 2 FHD BKP
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/51101
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png",|FR| BEIN SPORT 3
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15202
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png",|FR|  BEIN SPORT 3 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9341
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png",|FR| BEIN SPORT 3 HD BKP
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9343
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png",|FR| BEIN SPORT 3 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9587
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png",|FR| BEIN SPORT 3 FHD BKP
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/51100
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b0lk7aAc518TA5e6mUyywghUD2F93b2oBWCr7zvg5mvAd4Y-P2Y5jjg",|FR| RMC SPORT NEWS FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40481
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://e7.pngegg.com/pngimages/678/313/png-clipart-rmc-sport-sfr-sport-nextradiotv-others-text-sport.png",|FR| RMC SPORT 4K
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108552
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png",|FR| RMC SPORT 1 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15127
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png",|FR| RMC SPORT 1 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9218
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png",|FR| RMC SPORT 1 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9502
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png",|FR| RMC SPORT 2 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15126
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png",|FR| RMC SPORT 2 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9217
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png",|FR| RMC SPORT 2 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9501
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png",|FR| RMC SPORT 3 SD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/50978
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png",|FR| RMC SPORT 3 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/50979
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png",|FR| RMC SPORT 3 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/50980
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png",|FR| RMC SPORT 4
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15124
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png",|FR| RMC SPORT 4 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9215
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png",|FR| RMC SPORT 4 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9499
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 1
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126960
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 1 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139104
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 2
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126961
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 2 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139105
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 3
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126962
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 3 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139106
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 4
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126963
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 4 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139107
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 5
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126964
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 5 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139108
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 6
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126965
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 6 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139109
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 7
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126966
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 7 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139110
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 8
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126967
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 8 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139111
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-1.png",|FR| MULTISPORTS 1 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108540
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-2-1.png",|FR| MULTISPORTS 2 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108541
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-3-1.png",|FR| MULTISPORTS 3 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108542
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-4.png",|FR| MULTISPORTS 4 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108543
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/106.png",|FR| MULTISPORTS 6 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108545
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-5.png",|FR| MULTISPORTS 5 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108544
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein4Max.fr.png",|FR| BEIN SPORT MAX 4 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15210
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein5Max.fr.png",|FR| BEIN SPORT MAX 5 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15209
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein6Max.fr.png",|FR| BEIN SPORT MAX 6 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15208
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein7Max.fr.png",|FR| BEIN SPORT MAX 7 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15207
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein8Max.fr.png",|FR| BEIN SPORT MAX 8 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15206
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein9Max.fr.png",|FR| BEIN SPORT MAX 9 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15205
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/beinmax10.png",|FR| BEIN SPORT MAX 10 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15211
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive5.fr.png",|FR| RMC SPORT LIVE 5 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40480
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive6.fr.png",|FR| RMC SPORT LIVE 6 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40479
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive7.fr.png",|FR| RMC SPORT LIVE 7 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40478
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive11.fr.png",|FR| RMC SPORT LIVE 11 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40474
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess1.fr.png",|FR| RMC SPORT ACCESS 1
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40484
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess2.fr.png",|FR| RMC SPORT ACCESS 2
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40483
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png",|FR| EUROSPORT 1
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15172
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png",|FR| EUROSPORT 1 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9281
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png",|FR| EUROSPORT 1 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9549
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png",|FR| EUROSPORT 1 FHD BKP
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/51105
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png",|FR| EUROSPORT 2
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9279
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png",|FR| EUROSPORT 2 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9280
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png",|FR| EUROSPORT 2 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9548
-#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png",|FR| EUROSPORT 2 FHD BKP
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/51106
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 1
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139080
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 1 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139081
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 1 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139082
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 2
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139083
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 2 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139084
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 2 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139085
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 3
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139086
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 3 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139087
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 3 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139088
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 4
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139089
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 4 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139090
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 4 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139091
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 5
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139092
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 5 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139093
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 5 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139094
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 6
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139095
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 6 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139096
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 6 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139097
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 7
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139098
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 7 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139099
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 7 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139100
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 8
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139101
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 8 HD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139102
-#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 8 FHD
-http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139103
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/8VqomZ5.png",Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png",Arryadia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/G9BMhDS.png",Bahrain Sport 1
-http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/G9BMhDS.png",Bahrain Sport 1
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 ,PORTAL
+http://168.205.87.198:8555/live/1431/123456/82.ts
+#EXTINF:-1 ,AGRO BRASIL
+http://168.205.87.198:8555/live/1431/123456/7.ts
+#EXTINF:-1 ,AGRO CANAL
+http://168.205.87.198:8555/live/1431/123456/10.ts
+#EXTINF:-1 ,ALL SPORTS
+http://168.205.87.198:8555/live/1431/123456/148.ts
+#EXTINF:-1 ,AMERICA LATINO
+http://168.205.87.198:8555/live/1431/123456/16.ts
+#EXTINF:-1 ,AWTV
+http://168.205.87.198:8555/live/1431/123456/181.ts
+#EXTINF:-1 ,BAND
+http://168.205.87.198:8555/live/1431/123456/19.ts
+#EXTINF:-1 ,BOA VONTADE TV
+http://168.205.87.198:8555/live/1431/123456/21.ts
+#EXTINF:-1 ,BRA
+http://168.205.87.198:8555/live/1431/123456/24.ts
+#EXTINF:-1 ,BRSUPER TV
+http://168.205.87.198:8555/live/1431/123456/147.ts
+#EXTINF:-1 ,CANAL DO BOI
+http://168.205.87.198:8555/live/1431/123456/167.ts
+#EXTINF:-1 ,CANAL RURAL
+http://168.205.87.198:8555/live/1431/123456/166.ts
+#EXTINF:-1 ,CANAL SAÚDE
+http://168.205.87.198:8555/live/1431/123456/165.ts
+#EXTINF:-1 ,CANAL YEEAAH
+http://168.205.87.198:8555/live/1431/123456/193.ts
+#EXTINF:-1 ,CANÇÃO NOVA
+http://168.205.87.198:8555/live/1431/123456/25.ts
+#EXTINF:-1 ,CENTRAL TV
+http://168.205.87.198:8555/live/1431/123456/177.ts
+#EXTINF:-1 ,CHESPIRITO
+http://168.205.87.198:8555/live/1431/123456/159.ts
+#EXTINF:-1 ,CINE BRASIL
+http://168.205.87.198:8555/live/1431/123456/145.ts
+#EXTINF:-1 ,CLASSIC HITS
+http://168.205.87.198:8555/live/1431/123456/27.ts
+#EXTINF:-1 ,CLASSIQUE TV
+http://168.205.87.198:8555/live/1431/123456/190.ts
+#EXTINF:-1 ,CLC FILMES CLÁSSICOS
+http://168.205.87.198:8555/live/1431/123456/198.ts
+#EXTINF:-1 ,CNT
+http://168.205.87.198:8555/live/1431/123456/150.ts
+#EXTINF:-1 ,CULTURA
+http://168.205.87.198:8555/live/1431/123456/32.ts
+#EXTINF:-1 ,CULT
+http://168.205.87.198:8555/live/1431/123456/30.ts
+#EXTINF:-1 ,EXTREMO ORIENTAL TV
+http://168.205.87.198:8555/live/1431/123456/196.ts
+#EXTINF:-1 ,FANDOM TV
+http://168.205.87.198:8555/live/1431/123456/197.ts
+#EXTINF:-1 ,FISH TV
+http://168.205.87.198:8555/live/1431/123456/62.ts
+#EXTINF:-1 ,FUTURA
+http://168.205.87.198:8555/live/1431/123456/67.ts
+#EXTINF:-1 ,GAZETA
+http://168.205.87.198:8555/live/1431/123456/69.ts
+#EXTINF:-1 ,GLOBO MINAS
+http://168.205.87.198:8555/live/1431/123456/70.ts
+#EXTINF:-1 ,HITTS
+http://168.205.87.198:8555/live/1431/123456/72.ts
+#EXTINF:-1 ,JP NEWS
+http://168.205.87.198:8555/live/1431/123456/161.ts
+#EXTINF:-1 ,KIDS
+http://168.205.87.198:8555/live/1431/123456/143.ts
+#EXTINF:-1 ,LIFE CHANNEL BRASIL
+http://168.205.87.198:8555/live/1431/123456/192.ts
+#EXTINF:-1 ,MASTER TV
+http://168.205.87.198:8555/live/1431/123456/74.ts
+#EXTINF:-1 ,MEGA
+http://168.205.87.198:8555/live/1431/123456/75.ts
+#EXTINF:-1 ,NOVA TV
+http://168.205.87.198:8555/live/1431/123456/195.ts
+#EXTINF:-1 ,NOVO TEMPO
+http://168.205.87.198:8555/live/1431/123456/149.ts
+#EXTINF:-1 ,ONDA OESTE
+http://168.205.87.198:8555/live/1431/123456/169.ts
+#EXTINF:-1 ,OX TV
+http://168.205.87.198:8555/live/1431/123456/194.ts
+#EXTINF:-1 ,PAI ETERNO
+http://168.205.87.198:8555/live/1431/123456/144.ts
+#EXTINF:-1 ,POLISHOP
+http://168.205.87.198:8555/live/1431/123456/153.ts
+#EXTINF:-1 ,QUEENS UNITED TV
+http://168.205.87.198:8555/live/1431/123456/199.ts
+#EXTINF:-1 ,RATIMBUM
+http://168.205.87.198:8555/live/1431/123456/84.ts
+#EXTINF:-1 ,RECORD MINAS
+http://168.205.87.198:8555/live/1431/123456/96.ts
+#EXTINF:-1 ,RECORD NEWS
+http://168.205.87.198:8555/live/1431/123456/97.ts
+#EXTINF:-1 ,REDE FAMILIA
+http://168.205.87.198:8555/live/1431/123456/151.ts
+#EXTINF:-1 ,REDE GENESIS
+http://168.205.87.198:8555/live/1431/123456/98.ts
+#EXTINF:-1 ,REDE METROPOLE
+http://168.205.87.198:8555/live/1431/123456/99.ts
+#EXTINF:-1 ,REDE MINAS
+http://168.205.87.198:8555/live/1431/123456/101.ts
+#EXTINF:-1 ,REDE SUPER
+http://168.205.87.198:8555/live/1431/123456/163.ts
+#EXTINF:-1 ,REDE TV
+http://168.205.87.198:8555/live/1431/123456/102.ts
+#EXTINF:-1 ,REDE VIDA
+http://168.205.87.198:8555/live/1431/123456/103.ts
+#EXTINF:-1 ,RIT
+http://168.205.87.198:8555/live/1431/123456/168.ts
+#EXTINF:-1 ,RÁDIO BOSSA NOVA
+http://168.205.87.198:8555/live/1431/123456/85.ts
+#EXTINF:-1 ,RÁDIO FESTA
+http://168.205.87.198:8555/live/1431/123456/86.ts
+#EXTINF:-1 ,RÁDIO LOUNGE
+http://168.205.87.198:8555/live/1431/123456/87.ts
+#EXTINF:-1 ,RÁDIO METAL
+http://168.205.87.198:8555/live/1431/123456/89.ts
+#EXTINF:-1 ,RÁDIO MÚSICA CLÁSSICA
+http://168.205.87.198:8555/live/1431/123456/88.ts
+#EXTINF:-1 ,RÁDIO NEW ROCK
+http://168.205.87.198:8555/live/1431/123456/90.ts
+#EXTINF:-1 ,RÁDIO PAGODE
+http://168.205.87.198:8555/live/1431/123456/91.ts
+#EXTINF:-1 ,RÁDIO POP HITS
+http://168.205.87.198:8555/live/1431/123456/92.ts
+#EXTINF:-1 ,RÁDIO POP ROCK
+http://168.205.87.198:8555/live/1431/123456/93.ts
+#EXTINF:-1 ,RÁDIO TRILHAS SONORAS
+http://168.205.87.198:8555/live/1431/123456/95.ts
+#EXTINF:-1 ,SBT ALTEROSA
+http://168.205.87.198:8555/live/1431/123456/104.ts
+#EXTINF:-1 ,SCH
+http://168.205.87.198:8555/live/1431/123456/105.ts
+#EXTINF:-1 ,SECULO 21
+http://168.205.87.198:8555/live/1431/123456/106.ts
+#EXTINF:-1 ,SESC TV
+http://168.205.87.198:8555/live/1431/123456/107.ts
+#EXTINF:-1 ,SHOPTIME
+http://168.205.87.198:8555/live/1431/123456/164.ts
+#EXTINF:-1 ,SÉRIES CLÁSSICAS
+http://168.205.87.198:8555/live/1431/123456/160.ts
+#EXTINF:-1 ,TCM HD
+http://168.205.87.198:8555/live/1431/123456/187.ts
+#EXTINF:-1 ,TV APARECIDA
+http://168.205.87.198:8555/live/1431/123456/131.ts
+#EXTINF:-1 ,TV BRASIL 2
+http://168.205.87.198:8555/live/1431/123456/135.ts
+#EXTINF:-1 ,TV BRASIL
+http://168.205.87.198:8555/live/1431/123456/134.ts
+#EXTINF:-1 ,TV BRUSQUE
+http://168.205.87.198:8555/live/1431/123456/183.ts
+#EXTINF:-1 ,TV CÂMARA
+http://168.205.87.198:8555/live/1431/123456/136.ts
+#EXTINF:-1 ,TV ESCOLA
+http://168.205.87.198:8555/live/1431/123456/137.ts
+#EXTINF:-1 ,TV EVANGELIZAR
+http://168.205.87.198:8555/live/1431/123456/189.ts
+#EXTINF:-1 ,TV JUSTIÇA
+http://168.205.87.198:8555/live/1431/123456/138.ts
+#EXTINF:-1 ,TV SENADO
+http://168.205.87.198:8555/live/1431/123456/139.ts
+#EXTINF:-1 ,TV TURFE
+http://168.205.87.198:8555/live/1431/123456/152.ts
+#EXTINF:-1 ,VRT CHANNEL
+http://168.205.87.198:8555/live/1431/123456/146.ts
+#EXTINF:-1 ,WOOHOO
+http://168.205.87.198:8555/live/1431/123456/141.ts
+#EXTINF:-1 ,ZOOMOO
+http://168.205.87.198:8555/live/1431/123456/162.ts
+#EXTINF:-1 ,PORTAL
+http://168.205.87.198:8555/live/5803/123456/82.ts
+#EXTINF:-1 ,AGRO BRASIL
+http://168.205.87.198:8555/live/5803/123456/7.ts
+#EXTINF:-1 ,AGRO CANAL
+http://168.205.87.198:8555/live/5803/123456/10.ts
+#EXTINF:-1 ,AGROMAIS
+http://168.205.87.198:8555/live/5803/123456/175.ts
+#EXTINF:-1 ,ALL SPORTS
+http://168.205.87.198:8555/live/5803/123456/148.ts
+#EXTINF:-1 ,AMERICA LATINO
+http://168.205.87.198:8555/live/5803/123456/16.ts
+#EXTINF:-1 ,ARTE1
+http://168.205.87.198:8555/live/5803/123456/170.ts
+#EXTINF:-1 ,AWTV
+http://168.205.87.198:8555/live/5803/123456/181.ts
+#EXTINF:-1 ,BAND NEWS
+http://168.205.87.198:8555/live/5803/123456/174.ts
+#EXTINF:-1 ,BAND SPORTS
+http://168.205.87.198:8555/live/5803/123456/176.ts
+#EXTINF:-1 ,BAND
+http://168.205.87.198:8555/live/5803/123456/19.ts
+#EXTINF:-1 ,BOA VONTADE TV
+http://168.205.87.198:8555/live/5803/123456/21.ts
+#EXTINF:-1 ,BRA
+http://168.205.87.198:8555/live/5803/123456/24.ts
+#EXTINF:-1 ,BRSUPER TV
+http://168.205.87.198:8555/live/5803/123456/147.ts
+#EXTINF:-1 ,CANAL DO BOI
+http://168.205.87.198:8555/live/5803/123456/167.ts
+#EXTINF:-1 ,CANAL RURAL
+http://168.205.87.198:8555/live/5803/123456/166.ts
+#EXTINF:-1 ,CANAL SAÚDE
+http://168.205.87.198:8555/live/5803/123456/165.ts
+#EXTINF:-1 ,CANAL YEEAAH
+http://168.205.87.198:8555/live/5803/123456/193.ts
+#EXTINF:-1 ,CANÇÃO NOVA
+http://168.205.87.198:8555/live/5803/123456/25.ts
+#EXTINF:-1 ,CENTRAL TV
+http://168.205.87.198:8555/live/5803/123456/177.ts
+#EXTINF:-1 ,CHESPIRITO
+http://168.205.87.198:8555/live/5803/123456/159.ts
+#EXTINF:-1 ,CINE BRASIL
+http://168.205.87.198:8555/live/5803/123456/145.ts
+#EXTINF:-1 ,CLASSIC HITS
+http://168.205.87.198:8555/live/5803/123456/27.ts
+#EXTINF:-1 ,CLASSIQUE TV
+http://168.205.87.198:8555/live/5803/123456/190.ts
+#EXTINF:-1 ,CLC FILMES CLÁSSICOS
+http://168.205.87.198:8555/live/5803/123456/198.ts
+#EXTINF:-1 ,CNT
+http://168.205.87.198:8555/live/5803/123456/150.ts
+#EXTINF:-1 ,CULTURA
+http://168.205.87.198:8555/live/5803/123456/32.ts
+#EXTINF:-1 ,CULT
+http://168.205.87.198:8555/live/5803/123456/30.ts
+#EXTINF:-1 ,EXTREMO ORIENTAL TV
+http://168.205.87.198:8555/live/5803/123456/196.ts
+#EXTINF:-1 ,FANDOM TV
+http://168.205.87.198:8555/live/5803/123456/197.ts
+#EXTINF:-1 ,FASHION TV
+http://168.205.87.198:8555/live/5803/123456/61.ts
+#EXTINF:-1 ,FISH TV
+http://168.205.87.198:8555/live/5803/123456/62.ts
+#EXTINF:-1 ,FUTURA
+http://168.205.87.198:8555/live/5803/123456/67.ts
+#EXTINF:-1 ,GAZETA
+http://168.205.87.198:8555/live/5803/123456/69.ts
+#EXTINF:-1 ,GLOBO MINAS
+http://168.205.87.198:8555/live/5803/123456/70.ts
+#EXTINF:-1 ,HITTS
+http://168.205.87.198:8555/live/5803/123456/72.ts
+#EXTINF:-1 ,JP NEWS
+http://168.205.87.198:8555/live/5803/123456/161.ts
+#EXTINF:-1 ,KIDS
+http://168.205.87.198:8555/live/5803/123456/143.ts
+#EXTINF:-1 ,LIFE CHANNEL BRASIL
+http://168.205.87.198:8555/live/5803/123456/192.ts
+#EXTINF:-1 ,LOADING TV
+http://168.205.87.198:8555/live/5803/123456/142.ts
+#EXTINF:-1 ,MASTER TV
+http://168.205.87.198:8555/live/5803/123456/74.ts
+#EXTINF:-1 ,MEGA
+http://168.205.87.198:8555/live/5803/123456/75.ts
+#EXTINF:-1 ,MUSIC BOX
+http://168.205.87.198:8555/live/5803/123456/77.ts
+#EXTINF:-1 ,NOVA TV
+http://168.205.87.198:8555/live/5803/123456/195.ts
+#EXTINF:-1 ,NOVO TEMPO
+http://168.205.87.198:8555/live/5803/123456/149.ts
+#EXTINF:-1 ,ONDA OESTE
+http://168.205.87.198:8555/live/5803/123456/169.ts
+#EXTINF:-1 ,OX TV
+http://168.205.87.198:8555/live/5803/123456/194.ts
+#EXTINF:-1 ,PAI ETERNO
+http://168.205.87.198:8555/live/5803/123456/144.ts
+#EXTINF:-1 ,POLISHOP
+http://168.205.87.198:8555/live/5803/123456/153.ts
+#EXTINF:-1 ,PRIME BOX
+http://168.205.87.198:8555/live/5803/123456/83.ts
+#EXTINF:-1 ,QUEENS UNITED TV
+http://168.205.87.198:8555/live/5803/123456/199.ts
+#EXTINF:-1 ,RATIMBUM
+http://168.205.87.198:8555/live/5803/123456/84.ts
+#EXTINF:-1 ,RECORD MINAS
+http://168.205.87.198:8555/live/5803/123456/96.ts
+#EXTINF:-1 ,RECORD NEWS
+http://168.205.87.198:8555/live/5803/123456/97.ts
+#EXTINF:-1 ,REDE FAMILIA
+http://168.205.87.198:8555/live/5803/123456/151.ts
+#EXTINF:-1 ,REDE GENESIS
+http://168.205.87.198:8555/live/5803/123456/98.ts
+#EXTINF:-1 ,REDE METROPOLE
+http://168.205.87.198:8555/live/5803/123456/99.ts
+#EXTINF:-1 ,REDE MINAS
+http://168.205.87.198:8555/live/5803/123456/101.ts
+#EXTINF:-1 ,REDE SUPER
+http://168.205.87.198:8555/live/5803/123456/163.ts
+#EXTINF:-1 ,REDE TV
+http://168.205.87.198:8555/live/5803/123456/102.ts
+#EXTINF:-1 ,REDE VIDA
+http://168.205.87.198:8555/live/5803/123456/103.ts
+#EXTINF:-1 ,RIT
+http://168.205.87.198:8555/live/5803/123456/168.ts
+#EXTINF:-1 ,RÁDIO BOSSA NOVA
+http://168.205.87.198:8555/live/5803/123456/85.ts
+#EXTINF:-1 ,RÁDIO FESTA
+http://168.205.87.198:8555/live/5803/123456/86.ts
+#EXTINF:-1 ,RÁDIO LOUNGE
+http://168.205.87.198:8555/live/5803/123456/87.ts
+#EXTINF:-1 ,RÁDIO METAL
+http://168.205.87.198:8555/live/5803/123456/89.ts
+#EXTINF:-1 ,RÁDIO MÚSICA CLÁSSICA
+http://168.205.87.198:8555/live/5803/123456/88.ts
+#EXTINF:-1 ,RÁDIO NEW ROCK
+http://168.205.87.198:8555/live/5803/123456/90.ts
+#EXTINF:-1 ,RÁDIO PAGODE
+http://168.205.87.198:8555/live/5803/123456/91.ts
+#EXTINF:-1 ,RÁDIO POP HITS
+http://168.205.87.198:8555/live/5803/123456/92.ts
+#EXTINF:-1 ,RÁDIO POP ROCK
+http://168.205.87.198:8555/live/5803/123456/93.ts
+#EXTINF:-1 ,RÁDIO TRILHAS SONORAS
+http://168.205.87.198:8555/live/5803/123456/95.ts
+#EXTINF:-1 ,SABOR E ARTE
+http://168.205.87.198:8555/live/5803/123456/172.ts
+#EXTINF:-1 ,SBT ALTEROSA
+http://168.205.87.198:8555/live/5803/123456/104.ts
+#EXTINF:-1 ,SCH
+http://168.205.87.198:8555/live/5803/123456/105.ts
+#EXTINF:-1 ,SECULO 21
+http://168.205.87.198:8555/live/5803/123456/106.ts
+#EXTINF:-1 ,SESC TV
+http://168.205.87.198:8555/live/5803/123456/107.ts
+#EXTINF:-1 ,SHOPTIME
+http://168.205.87.198:8555/live/5803/123456/164.ts
+#EXTINF:-1 ,SMITHSONIAN
+http://168.205.87.198:8555/live/5803/123456/173.ts
+#EXTINF:-1 ,SÉRIES CLÁSSICAS
+http://168.205.87.198:8555/live/5803/123456/160.ts
+#EXTINF:-1 ,TCM HD
+http://168.205.87.198:8555/live/5803/123456/187.ts
+#EXTINF:-1 ,TERRA VIVA
+http://168.205.87.198:8555/live/5803/123456/171.ts
+#EXTINF:-1 ,TRAVEL
+http://168.205.87.198:8555/live/5803/123456/124.ts
+#EXTINF:-1 ,TV APARECIDA
+http://168.205.87.198:8555/live/5803/123456/131.ts
+#EXTINF:-1 ,TV BRASIL 2
+http://168.205.87.198:8555/live/5803/123456/135.ts
+#EXTINF:-1 ,TV BRASIL
+http://168.205.87.198:8555/live/5803/123456/134.ts
+#EXTINF:-1 ,TV BRUSQUE
+http://168.205.87.198:8555/live/5803/123456/183.ts
+#EXTINF:-1 ,TV CÂMARA
+http://168.205.87.198:8555/live/5803/123456/136.ts
+#EXTINF:-1 ,TV ESCOLA
+http://168.205.87.198:8555/live/5803/123456/137.ts
+#EXTINF:-1 ,TV EVANGELIZAR
+http://168.205.87.198:8555/live/5803/123456/189.ts
+#EXTINF:-1 ,TV JUSTIÇA
+http://168.205.87.198:8555/live/5803/123456/138.ts
+#EXTINF:-1 ,TV SENADO
+http://168.205.87.198:8555/live/5803/123456/139.ts
+#EXTINF:-1 ,TV TURFE
+http://168.205.87.198:8555/live/5803/123456/152.ts
+#EXTINF:-1 ,VRT CHANNEL
+http://168.205.87.198:8555/live/5803/123456/146.ts
+#EXTINF:-1 ,WOOHOO
+http://168.205.87.198:8555/live/5803/123456/141.ts
+#EXTINF:-1 ,ZOOMOO
+http://168.205.87.198:8555/live/5803/123456/162.ts
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Cartoon Network FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396760
+#EXTINF:-1 group-title="LA- BRASIL",BR-  H2 Brasil
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396759
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Record RS HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396758
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Multishow
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396757
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO Family Full HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396756
+#EXTINF:-1 group-title="LA- BRASIL",BR-  NAT GEO Kids FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396755
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Fox Life Full HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396754
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere FC 1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396753
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV Playkids
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396752
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV Ra Tim Bum SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396751
+#EXTINF:-1 group-title="LA- BRASIL",BR-  ESPN Extra HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396750
+#EXTINF:-1 group-title="LA- BRASIL",BR- Record RJ HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396749
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Record SP Full HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396748
+#EXTINF:-1 group-title="LA- BRASIL",BR-  ID Investigação Discovery HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396747
+#EXTINF:-1 group-title="LA- BRASIL",BR-  History Channel Full HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396746
+#EXTINF:-1 group-title="LA- BRASIL",BR-  MTV Live Full HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396745
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TCM SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396744
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Paramount Channel Full HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396743
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Arte 1 Full HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396742
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV Ra Tim Bum HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396741
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Disney Junior HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396740
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV Destak
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396739
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV Parana Turismo HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396738
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Rede Gospel SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396737
+#EXTINF:-1 group-title="LA- BRASIL",BR-  SBT RJ HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396736
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV Pai Eterno FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396735
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV Novo Tempo FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396734
+#EXTINF:-1 group-title="LA- BRASIL",BR-  SBT TV Cidade Verde Piaui SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396733
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV Aparecida FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396732
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Warner Bross HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396731
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Zoomoo HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396730
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Woohoo HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396729
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Warner Channel HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396728
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Viva HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396727
+#EXTINF:-1 group-title="LA- BRASIL",BR-  MEGAPIXS HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396726
+#EXTINF:-1 group-title="LA- BRASIL",BR-  VH1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396725
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Universal Channel HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396724
+#EXTINF:-1 group-title="LA- BRASIL",BR-  BR-  WooHoo FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396723
+#EXTINF:-1 group-title="LA- BRASIL",BR-  PPTV KIDS
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396722
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Tooncast HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396721
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TNT Séries HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396720
+#EXTINF:-1 group-title="LA- BRASIL",BR-  ZooMoo Kids FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396719
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Telecine Premium HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396718
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Telecine Pipoca HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396717
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Telecine Fun HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396716
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Tooncast HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396715
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TBS SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396714
+#EXTINF:-1 group-title="LA- BRASIL",BR-  SyFy HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396713
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Studio Universal HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396712
+#EXTINF:-1 group-title="LA- BRASIL",BR-  SporTV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396711
+#EXTINF:-1 group-title="LA- BRASIL",BR-  SporTV 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396710
+#EXTINF:-1 group-title="LA- BRASIL",BR-  SporTV 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396709
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Space HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396708
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Sony HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396707
+#EXTINF:-1 group-title="LA- BRASIL",BR-  SBT SP HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396706
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Band Sports FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396705
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Rede TV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396704
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Record RJ SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396703
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TLC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396702
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Record News HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396701
+#EXTINF:-1 group-title="LA- BRASIL",BR-  RedBull TV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396700
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TNT HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396699
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere Clubes HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396698
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TNT Series FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396697
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Telecine Touch FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396696
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere 1 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396695
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Paramount Channel HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396694
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Off HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396693
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Novo Tempo SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396692
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TLC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396691
+#EXTINF:-1 group-title="LA- BRASIL",BR-  MAIS HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396690
+#EXTINF:-1 group-title="LA- BRASIL",BR-  National Geographic HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396689
+#EXTINF:-1 group-title="LA- BRASIL",BR-  National Geographic Wild HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396688
+#EXTINF:-1 group-title="LA- BRASIL",BR-  National Geographic Kids HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396687
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO Xtreme HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396686
+#EXTINF:-1 group-title="LA- BRASIL",BR-  MTV Live HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396685
+#EXTINF:-1 group-title="LA- BRASIL",BR-  MTV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396684
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Megapix HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396683
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO Pop HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396682
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO Mundi SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396681
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO xtreme FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396680
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO Mundi HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396679
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Lifetime HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396678
+#EXTINF:-1 group-title="LA- BRASIL",BR-  History Channel HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396677
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO Signature HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396676
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO Plus*e HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396675
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO Plus HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396674
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396673
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO Family HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396672
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396671
+#EXTINF:-1 group-title="LA- BRASIL",BR-  H2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396670
+#EXTINF:-1 group-title="LA- BRASIL",BR-  GNT HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396669
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Gloob HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396668
+#EXTINF:-1 group-title="LA- BRASIL",BR-   FX FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396667
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Globo Nordeste FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396666
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Globo News FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396665
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Globo Brasilia HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396664
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Gloob HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396663
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Globo RPC TV SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396662
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Globo RJ HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396661
+#EXTINF:-1 group-title="LA- BRASIL",BR-  GLOBO TV TEM SÃO JOSÉ DO RIO PRETO
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396660
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Globo RBS Porto Alegre FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396659
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Globo RBS Porto Alegre SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396658
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Globo News HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396657
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Globo Internacional SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396656
+#EXTINF:-1 group-title="LA- BRASIL",BR-   Curta HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396655
+#EXTINF:-1 group-title="LA- BRASIL",BR- Discovery Turbo FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396654
+#EXTINF:-1 group-title="LA- BRASIL",BR-  GLOBO PORTUGAL
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396653
+#EXTINF:-1 group-title="LA- BRASIL",BR- Discovery Theater FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396652
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Discovery Science FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396651
+#EXTINF:-1 group-title="LA- BRASIL",BR-  FX HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396650
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Futura HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396649
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Fox Sports HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396648
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Fox Sports 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396647
+#EXTINF:-1 group-title="LA- BRASIL",BR-  FOX SPORTS 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396646
+#EXTINF:-1 group-title="LA- BRASIL",BR-   FOX SPORTS FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396645
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Fox HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396644
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Food Network HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396643
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Fish TV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396642
+#EXTINF:-1 group-title="LA- BRASIL",BR-  ESPN HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396641
+#EXTINF:-1 group-title="LA- BRASIL",BR-  ESPN Brasil HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396640
+#EXTINF:-1 group-title="LA- BRASIL",BR-  ESPN 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396639
+#EXTINF:-1 group-title="LA- BRASIL",BR-  REDE TV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396638
+#EXTINF:-1 group-title="LA- BRASIL",BR-  E! HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396637
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Disney XD HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396636
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Disney Junior Full HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396635
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Disney Channel HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396634
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Discovery World HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396633
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Discovery World Channel HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396632
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Discovery Theater HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396631
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Discovery Science HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396630
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Discovery Kids HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396629
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Discovery
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396628
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HGTV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396627
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Curta! HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396626
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Comedy Central HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396625
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Combate HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396624
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Boomerang HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396623
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Bis HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396622
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Band Sports HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396621
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Band News HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396620
+#EXTINF:-1 group-title="LA- BRASIL",BR-  AXN HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396619
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Arte 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396618
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Rede RC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396617
+#EXTINF:-1 group-title="LA- BRASIL",BR-  CBN Rio
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396616
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TVN Brasil
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396615
+#EXTINF:-1 group-title="LA- BRASIL",BR-  NATGEO KIDS HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396614
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV Cinec
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396612
+#EXTINF:-1 group-title="LA- BRASIL",BR-  WOOHOO HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396611
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Sobrenatural TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396609
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Agro Brasil TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396607
+#EXTINF:-1 group-title="LA- BRASIL",BR-  NATGEO KIDS SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396606
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV SOL COMUNIDADE
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396604
+#EXTINF:-1 group-title="LA- BRASIL",BR-  NATGEO WILD HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396603
+#EXTINF:-1 group-title="LA- BRASIL",BR-  NATGEO WILD SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396602
+#EXTINF:-1 group-title="LA- BRASIL",BR-  NATIONAL GEOGRAPHIC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396601
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV DIARIO DO SERTAO
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396600
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TCM HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396597
+#EXTINF:-1 group-title="LA- BRASIL",BR-  NOVO TEMPO
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396596
+#EXTINF:-1 group-title="LA- BRASIL",BR-  COM BRAZIL
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396594
+#EXTINF:-1 group-title="LA- BRASIL",BR-  GLOBO TV GAZETA SUL ES HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396589
+#EXTINF:-1 group-title="LA- BRASIL",BR-  NATIONAL GEOGRAPHIC FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396588
+#EXTINF:-1 group-title="LA- BRASIL",BR-  GLOBO TV TEM SOROCABA SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396583
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV Destak
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396582
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TV Sol Comunidade FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396575
+#EXTINF:-1 group-title="LA- BRASIL",BR- Star Hits 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396571
+#EXTINF:-1 group-title="LA- BRASIL",BR- NOVO TEMPO
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396570
+#EXTINF:-1 group-title="LA- BRASIL",BR- Telecine Cult FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396569
+#EXTINF:-1 group-title="LA- BRASIL",BR- Record MG HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396568
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere FC 7 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396567
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere FC 6 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396566
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere FC 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396564
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere FC 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396562
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere FC 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396561
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Telecine Touch FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396560
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Telecine Premium HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396559
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Telecine Pipoca FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396558
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Telecine Fun HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396557
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Telecine Cult FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396556
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Telecine Action FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396555
+#EXTINF:-1 group-title="LA- BRASIL",BR-  CNN Brasil HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396554
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TNT Sports 5 Brasil
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396553
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TNT Sports 4 Brasil
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396552
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TNT Sports 3 Brasil
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396551
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TNT Sports 2 Brasil
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396550
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO XTREME FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396549
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO SIGNATURE FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396548
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396547
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO POP HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396546
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO PLUS*E HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396545
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO PLUS FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396544
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO MUNDI HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396543
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396542
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO FAMILY HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396541
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO FAMILY FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396540
+#EXTINF:-1 group-title="LA- BRASIL",BR-  HBO 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396539
+#EXTINF:-1 group-title="LA- BRASIL",BR-  DAZN 2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396538
+#EXTINF:-1 group-title="LA- BRASIL",BR-  DAZN 1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396537
+#EXTINF:-1 group-title="LA- BRASIL",BR-  DAZN 4
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396536
+#EXTINF:-1 group-title="LA- BRASIL",BR-  DAZN 3
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396535
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Conmebol TV 04
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396534
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Conmebol TV 03
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396533
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Conmebol TV 02
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396532
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Conmebol TV 01
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396531
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TRUTV SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396530
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TELECINE PREMIUM FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396529
+#EXTINF:-1 group-title="LA- BRASIL",BR-  TELECINE FUN FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396528
+#EXTINF:-1 group-title="LA- BRASIL",BR-  NHK WORLD HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396527
+#EXTINF:-1 group-title="LA- BRASIL",BR-  GLOOBINHO SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396526
+#EXTINF:-1 group-title="LA- BRASIL",BR-  ESPN EXTRA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396525
+#EXTINF:-1 group-title="LA- BRASIL",STAR + HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396522
+#EXTINF:-1 group-title="LA- BRASIL",STAR Channel 4k
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396521
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396520
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396519
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396518
+#EXTINF:-1 group-title="LA- BRASIL",BR-  Premiere Clubes FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396517
+#EXTINF:-1 group-title="LA- BRASIL",CANAL BRASIL
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396516
 
-#############################################canais PT###############################################
-
+#####################################################CANAIS PT###########################
 
 #EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
