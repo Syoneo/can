@@ -1,0 +1,1409 @@
+#EXTM3U
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
+https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports PREMIEUM 1 SERIA A FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/231223
+#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports premium 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/231225
+#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AR- AD SPORT 1 ASIA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/257235
+#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AR- AD SPORT 2 ASIA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/257236
+#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18286
+#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18287
+#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18285
+#EXTINF:-1 group-title="AR- AD SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/adsport1.jpg",AD Sports 4 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18284
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS NEWS HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33274
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS NEWS HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193633
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS GLOBAL HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33275
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS GLOBAL HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193634
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216540
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216542
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM  1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9494
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM 1 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33268
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM  2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9496
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM 2 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33269
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM  3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9497
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS PREMIUM 3 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33270
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9480
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33261
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/13371
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33262
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9484
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33263
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9486
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33264
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9488
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33265
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9490
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33266
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9492
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33267
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS XTRA 1 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33271
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS XTRA 2 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33272
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/132019
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD+ EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150538
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/132020
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD+  EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150539
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HD+ EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150540
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/132022
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HD+ FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150541
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193629
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HD+ FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193631
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HD FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193630
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HD+ FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193632
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 1 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127191
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 1 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161721
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 2 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127192
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 2 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161722
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 3 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127193
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREMIUM 3 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161723
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127184
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161714
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127185
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161715
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127186
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161716
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127187
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161717
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127188
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161718
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127189
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161719
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127190
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161720
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 SD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127194
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 SD+ EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161724
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 SD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127195
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 SD+ EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161725
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216544
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 1 FHD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216545
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216546
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS XTRA 2 FHD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216547
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/97378
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83621
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83620
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83628
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83627
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83626
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83625
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83624
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83623
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83622
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 FHD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83619
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 FHD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83618
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 1 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193642
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 2 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193643
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 3 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193644
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192818
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193636
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/BEIN-SPORTS-3-HD.png",BEIN  SPORTS 3 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193637
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/beinsports4.png",BEIN SPORTS 4 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193638
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/beinsports5.png",BEIN SPORTS 5 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193639
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/beinsports6.png",BEIN SPORTS 6 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193640
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/beinsports7.png",BEIN SPORTS 7 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193641
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 1 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/121347
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 2 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83608
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS PREIMUM 3 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83607
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 1 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83616
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 2 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83615
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 3 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83614
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 4 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83613
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 5 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83612
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 6 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83611
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN  SPORTS 7 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83610
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 1 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291774
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 2 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291773
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291782
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291786
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 3 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291772
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291777
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291778
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 2 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291779
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC 3 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291776
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291775
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291783
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291785
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bein.png",BEIN SPORTS AFC HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291780
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217848
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217849
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217850
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217851
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217852
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 5 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217853
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 5 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217854
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 6 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217855
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",SSC 6 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217856
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ABU-DHABISPORT-1-HD.png",Abu Dhabi Sports Asia 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/219654
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ABU-DHABISPORT-2-HD.png",Abu Dhabi Sports  Asia 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/219655
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189560
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189561
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189562
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50385
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/85659
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ON-TIME-SPORTS.jpg",On Time Sports 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189558
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/alkass1.jpg",Al Kass Sport 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18747
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/alkass1.jpg",Al Kass Sport 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18746
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/alkass1.jpg",Al Kass Sport 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18745
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/alkass1.jpg",Al Kass Sport 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18744
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KSA-SPORT.jpg",KSA SPORTS 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50397
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KSA-SPORT.jpg",KSA SPORTS 2 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50394
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KSA-SPORT.jpg",KSA SPORTS 1 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50395
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/KSA-SPORT.jpg",KSA SPORTS 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50396
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",KSA SPORTS  3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/97209
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/saudisport.png",KSA SPORTS  4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/97210
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/dubaisport1.png",Dubai Sport 1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50390
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/dubaisport1.png",Dubai Sport 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50388
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/dubaisportschannel3.png",Dubai Sport 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/85472
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/AL-SHABAB-SPORT-HD.jpg",Al Shabab Sport HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/219657
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/neelainsport.jpg",Neelain Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50382
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/NILE-SPORT.jpg",Nile Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50386
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/AL-AHLY-TV.jpg",Al Ahly TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173916
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ZAMALEK-SPORTS.jpg",Zamalek Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173917
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/jordansport.png",Jordan Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50381
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/aliraqiya.png",Iraqiya Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50387
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/DMC-SPORTS.png",Dmc Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50391
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bahrainsport2.jpg",BAHRAIN SPORT 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50392
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/yassport.jpg",Yas Sport HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173919
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bahrainsport2.jpg",Bahrian Sport 1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173920
+#EXTINF:-1 group-title="AR- BEIN SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kuwaittvsport.png",Kuwait Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173921
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",|.AR.| BEIN SPORTS NEWS HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9152
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",|.AR.| BEIN SPORTS NEWS FHD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/92512
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORTS GLOBAL
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9156
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORT GLOBAL HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30750
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORTS GLOBAL FHD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/92511
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 SD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32008
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9147
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD 4K
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30756
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD HEVC
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/39224
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 SD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32007
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9148
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9149
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD 4K
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30757
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD HEVC
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/39225
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 SD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32006
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9150
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9151
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD 4K
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30758
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD HEVC
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/39226
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 SD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32015
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9131
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png",|.AR.| BEIN SPORTS 1 FHD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32146
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png",|.AR.| BEIN SPORTS 1 FHD 4K
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30749
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 FHD HEVC
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/28265
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 SD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32014
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports2.tr.png",|.AR.| BEIN SPORTS 2 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9134
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 FHD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9135
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 FHD 4K
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30751
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png",|.AR.| BEIN SPORTS 3 SD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32013
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png",|.AR.| BEIN SPORTS 3 FHD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9137
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9138
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 FHD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/103764
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 FHD 4K
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30755
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 SD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32011
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 FHD HEVC
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/28269
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 SD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32010
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9142
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9143
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD 4K
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30759
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD HEVC
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/28270
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 SD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/32009
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9144
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9145
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD 4K
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/30760
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD HEVC
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/28271
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 1 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9153
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 2 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9154
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 3 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/9155
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png",|.AR.| BEIN SPORTS XTRA 2 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/119958
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png",|.AR.| BEIN SPORTS FRENCH 1 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124099
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png",|.AR.| BEIN SPORTS FRENCH 3 HD
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124098
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX FHD 4K (WC QATAR 2022)
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124089
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX HD (WC QATAR 2022)
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124086
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX FHD (WC QATAR 2022)
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124092
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX FHD 4K (WC QATAR 2022)
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124094
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX HD (WC QATAR 2022)
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124091
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",|.AR.| BEIN SPORTS 6 MAX HD (WC QATAR 2022)
+http://x.viptvpro.com:25443/V5G68yshOQzr/O7nEIM21ec/124096
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",|.AR.| BEIN SPORTS NEWS HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9152
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png",|.AR.| BEIN SPORTS NEWS FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/92512
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORTS GLOBAL
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9156
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORT GLOBAL HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30750
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg",|.AR.| BEIN SPORTS GLOBAL FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/92511
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32008
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9146
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9147
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD 4K
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30756
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 1 FHD HEVC
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/39224
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32007
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9148
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9149
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD 4K
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30757
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 2 FHD HEVC
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/39225
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32006
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9150
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9151
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD 4K
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30758
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png",|.AR.| BEIN SPORTS PREMIUM 3 FHD HEVC
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/39226
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32015
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9131
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png",|.AR.| BEIN SPORTS 1 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32146
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://mxcccam.com/picons/beINSports1.us.png",|.AR.| BEIN SPORTS 1 FHD 4K
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30749
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports.us.png",|.AR.| BEIN SPORTS 1 FHD HEVC
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28265
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32014
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports2.tr.png",|.AR.| BEIN SPORTS 2 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9134
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9135
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 FHD 4K
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30751
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports2.fr.png",|.AR.| BEIN SPORTS 2 FHD HEVC
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28266
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png",|.AR.| BEIN SPORTS 3 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32013
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png",|.AR.| BEIN SPORTS 3 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9136
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png",|.AR.| BEIN SPORTS 3 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9137
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/BeinSports3.fr.png",|.AR.| BEIN SPORTS 3 FHD 4K
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30752
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports3.tr.png",|.AR.| BEIN SPORTS 3 FHD HEVC
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28267
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9138
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/103764
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 FHD 4K
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30755
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports4.tr.png",|.AR.| BEIN SPORTS 4 FHD HEVC
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28268
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32011
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9140
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9141
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 FHD 4K
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30754
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 FHD HEVC
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28269
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32010
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9142
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9143
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD 4K
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30759
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 FHD HEVC
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28270
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/32009
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9144
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9145
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD 4K
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/30760
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 FHD HEVC
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/28271
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 1 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9153
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 2 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9154
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png",|.AR.| BEIN SPORTS ENGLISH 3 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9155
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png",|.AR.| BEIN SPORTS XTRA 1 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/119957
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F896%2Fbein-sports-xtra-1.png",|.AR.| BEIN SPORTS XTRA 2 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/119958
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png",|.AR.| BEIN SPORTS FRENCH 1 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124099
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png",|.AR.| BEIN SPORTS FRENCH 2 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124097
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png",|.AR.| BEIN SPORTS FRENCH 3 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124098
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX FHD (WC QATAR 2022)
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124087
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX FHD 4K (WC QATAR 2022)
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124089
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX HD (WC QATAR 2022)
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124086
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",|.AR.| BEIN SPORTS 4 MAX SD (WC QATAR 2022)
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124085
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX FHD (WC QATAR 2022)
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124092
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX FHD 4K (WC QATAR 2022)
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124094
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png",|.AR.| BEIN SPORTS 5 MAX HD (WC QATAR 2022)
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124091
+#EXTINF:-1 group-title="BEIN SPORTS MENA" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png",|.AR.| BEIN SPORTS 6 MAX HD (WC QATAR 2022)
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/124096
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png",|FR| BEIN SPORT 1
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15204
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png",|FR| BEIN SPORT 1 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9340
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png",|FR| BEIN SPORT 1 HD BKP
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9345
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein1.png",|FR| BEIN SPORT 1 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/51102
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png",|FR| BEIN SPORT 2
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15203
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png",|FR| BEIN SPORT 2 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9339
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png",|FR| BEIN SPORT 2 HD BKP
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9344
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png",|FR| BEIN SPORT 2 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9588
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein%202.png",|FR| BEIN SPORT 2 FHD BKP
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/51101
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png",|FR| BEIN SPORT 3
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15202
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png",|FR|  BEIN SPORT 3 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9341
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png",|FR| BEIN SPORT 3 HD BKP
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9343
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png",|FR| BEIN SPORT 3 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9587
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/bein3.png",|FR| BEIN SPORT 3 FHD BKP
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/51100
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b0lk7aAc518TA5e6mUyywghUD2F93b2oBWCr7zvg5mvAd4Y-P2Y5jjg",|FR| RMC SPORT NEWS FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40481
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://e7.pngegg.com/pngimages/678/313/png-clipart-rmc-sport-sfr-sport-nextradiotv-others-text-sport.png",|FR| RMC SPORT 4K
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108552
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png",|FR| RMC SPORT 1 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15127
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png",|FR| RMC SPORT 1 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9218
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport1.fr.png",|FR| RMC SPORT 1 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9502
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png",|FR| RMC SPORT 2 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15126
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png",|FR| RMC SPORT 2 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9217
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport2.fr.png",|FR| RMC SPORT 2 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9501
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png",|FR| RMC SPORT 3 SD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/50978
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png",|FR| RMC SPORT 3 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/50979
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport3.fr.png",|FR| RMC SPORT 3 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/50980
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png",|FR| RMC SPORT 4
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15124
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png",|FR| RMC SPORT 4 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9215
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSport4.fr.png",|FR| RMC SPORT 4 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9499
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 1
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126960
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 1 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139104
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 2
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126961
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 2 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139105
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 3
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126962
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 3 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139106
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 4
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126963
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 4 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139107
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 5
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126964
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 5 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139108
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 6
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126965
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 6 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139109
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 7
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126966
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 7 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139110
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",|FR| AMAZON PRIME LIGUE DEUX LIVE 8
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126967
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 8 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139111
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-1.png",|FR| MULTISPORTS 1 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108540
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-2-1.png",|FR| MULTISPORTS 2 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108541
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-3-1.png",|FR| MULTISPORTS 3 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108542
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-4.png",|FR| MULTISPORTS 4 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108543
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/106.png",|FR| MULTISPORTS 6 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108545
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/logo-multisports-5.png",|FR| MULTISPORTS 5 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/108544
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein4Max.fr.png",|FR| BEIN SPORT MAX 4 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15210
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein5Max.fr.png",|FR| BEIN SPORT MAX 5 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15209
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein6Max.fr.png",|FR| BEIN SPORT MAX 6 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15208
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein7Max.fr.png",|FR| BEIN SPORT MAX 7 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15207
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein8Max.fr.png",|FR| BEIN SPORT MAX 8 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15206
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Bein9Max.fr.png",|FR| BEIN SPORT MAX 9 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15205
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/bein/beinmax10.png",|FR| BEIN SPORT MAX 10 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15211
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive5.fr.png",|FR| RMC SPORT LIVE 5 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40480
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive6.fr.png",|FR| RMC SPORT LIVE 6 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40479
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive7.fr.png",|FR| RMC SPORT LIVE 7 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40478
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportLive11.fr.png",|FR| RMC SPORT LIVE 11 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40474
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess1.fr.png",|FR| RMC SPORT ACCESS 1
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40484
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/RMCSportAccess2.fr.png",|FR| RMC SPORT ACCESS 2
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/40483
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png",|FR| EUROSPORT 1
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/15172
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png",|FR| EUROSPORT 1 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9281
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png",|FR| EUROSPORT 1 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9549
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport.png",|FR| EUROSPORT 1 FHD BKP
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/51105
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png",|FR| EUROSPORT 2
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9279
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png",|FR| EUROSPORT 2 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9280
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png",|FR| EUROSPORT 2 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/9548
+#EXTINF:-1 group-title="FRANCE SPORT" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.fr.png",|FR| EUROSPORT 2 FHD BKP
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/51106
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 1
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139080
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 1 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139081
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 1 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139082
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 2
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139083
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 2 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139084
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 2 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139085
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 3
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139086
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 3 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139087
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 3 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139088
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 4
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139089
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 4 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139090
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 4 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139091
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 5
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139092
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 5 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139093
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 5 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139094
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 6
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139095
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 6 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139096
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 6 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139097
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 7
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139098
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 7 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139099
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 7 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139100
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 8
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139101
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 8 HD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139102
+#EXTINF:-1 group-title="FRANCE SPORT",|FR| EUROSPORT 360 8 FHD
+http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/139103
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/8VqomZ5.png",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/G9BMhDS.png",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/G9BMhDS.png",Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+
+#############################################canais PT###############################################
+
+
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 group-title="Outdoor" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png",AgroBrasil TV (486p)
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/wULpnYR.png",All Sports (720p)
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/9SjoGWj.png",Canal 25 Jundiaí [Not 24/7]
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://i.imgur.com/0eGv67Q.png",Canal Macau
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/0eGv67Q.png",Canal Macau (720p)
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/FZwHq8k.png",CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/c8ztQnF.png",COM Brasil (720p)
+https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/4lnSlOZ.png",Fonte TV (1080p)
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/futura.jpg",Futura [Not 24/7]
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/D15qpCm.png",IMPD TV (1080p)
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/IK3F9Uq.png",Nova Era TV (1080p)
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/exdDHml.png",Novo Tempo (480p)
+http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/01KEiEp.png",Perú Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png",Pluto TV Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_Porto_Canal.jpg/300px-Logo_Porto_Canal.jpg",Porto Canal
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg",Porto Canal (360p)
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/24kitchenadria.png",PT-   24 KITCHEN HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122322
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/hbolatino.jpg",PT-   A BOLA HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133191
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/abolatv.png",PT-   A BOLA TV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122323
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/afromusic.png",PT-   Afro Music  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128820
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/afromusic.png",PT-   AFRO MUSIC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122324
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/amcchannel.png",PT-   AMC  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128840
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/amcpe.png",PT-   AMC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122298
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/startvhd.png",PT-   ARTV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122317
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.axn.png",PT-   AXN Black FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122300
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.axn.png",PT-   AXN HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122325
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.axn.png",PT-   AXN HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133206
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.axn.png",PT-   AXN MOVIES HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133209
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.axn.png",PT-   AXN White FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122301
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.axn.png",PT-   AXN WHITE HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133208
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.babytv.png",PT-   BABY TV  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128825
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.babytv.png",PT-   BABY TV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122326
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bbcentertainmenteurope.png",PT-   BBC Entertainment  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128809
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="netv.live/logo_nettv/nettv_logo/logos/biggs.png",PT-   BIGGS HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122318
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/BLAZE-.png",PT-   BLAZE HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122327
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/bloombergtv.png",PT-   Bloomberg  HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122319
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/BTV-.png",PT-   BTV  HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122328
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/BTV-.png",PT-   BTV HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133199
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cacavision.png",PT-   CACAVISION  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128805
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canal11hd.png",PT-   CANAL 11 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122321
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/HISTORIA-HD.jpg",PT-   CANAL HISTORIA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122329
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/panda.png",PT-   CANAL PANDA  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128830
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canalpanda.png",PT-   CANAL PANDA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122330
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canalq.png",PT-   CANAL Q  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128811
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/canalq.png",PT-   CANAL Q HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122331
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cartoonnetworkro.png",PT-   CARTOON NETWORK  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128824
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cartoonnetworkcz.png",PT-   CARTOON NETWORK HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122333
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cbsrealityce.png",PT-   CBS REALITY HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122334
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cinemundo.png",PT-   Cine Mundo  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128836
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cinemundo.png",PT-   CINEMUNDO HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122335
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cinemundo.png",PT-   CINEMUNDO HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133215
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cmtv.png",PT-   CMTV  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128798
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cmtv.png",PT-   CMTV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122307
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/cmtv.png",PT-   CMTV HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133190
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/crimeplusinvestigationchannel.png",PT-   CRIME INVESTIGATION HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122336
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/027discovery.png",PT-   DISCOVERY HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122337
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/DISNEY--CHANNEL.png",PT-   DISNEY CHANNEL  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128831
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/DISNEY--CHANNEL.png",PT-   DISNEY CHANNEL HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122338
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/DISNEY-JUNIOR-HD-SUISS.png",PT-   DISNEY JUNIOR  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128832
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/DISNEY-JUNIOR-HD-SUISS.png",PT-   DISNEY JUNIOR HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122339
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/E!-NP.jpg",PT-   E! Entertainment  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128818
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/E!-NP.jpg",PT-   E! ENTERTAINMENT HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122340
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/elevensportspro.jpg",PT-   Eleven Sports 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/172211
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/elevensportspro.jpg",PT-   ELEVEN SPORTS 1 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133200
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/elevensportspro.jpg",PT-   Eleven Sports 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122411
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/elevensportspro.jpg",PT-   ELEVEN SPORTS 2 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133201
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/elevensportspro.jpg",PT-   Eleven Sports 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122407
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/elevensportspro.jpg",PT-   Eleven Sports 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122410
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/elevensportspro.jpg",PT-   Eleven Sports 5 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122409
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/elevensportspro.jpg",PT-   Eleven Sports 6 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122408
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/eurosport1hdbe.png",PT-   EUROSPORT  1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122347
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/EUROSPORT-2.png",PT-   Eurosport 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122406
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/eurosport1hdbe.png",PT-   Eurosport1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122405
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/FOOD%20NETWORK.png",PT-   FOOD NETWORK HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122350
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.Fox_comedy.png",PT-   FOX COMEDY  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128838
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.Fox_comedy.png",PT-   Fox Comedy HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122302
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.Fox_comedy.png",PT-   FOX COMEDY HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133212
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/foxcrime.png",PT-   Fox Crime FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122303
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/foxcrimeadria.png",PT-   FOX CRIME HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133211
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/FOX-.jpg",PT-   FOX HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122351
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/FOX-.jpg",PT-   FOX HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133207
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.FoxLife.png",PT-   Fox Life FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122304
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.foxmovieshd.png",PT-   Fox Movi  HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122305
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/FOX-MOVIES-HD.jpg",PT-   FOX MOVIES  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128837
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.foxmovieshd.png",PT-   FOX MOVIES HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133210
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://sw-apps.net/nettv_logo/logos2/fueltv.png",PT-   Fuel TV  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128807
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/fueltv.png",PT-   FUEL TV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122352
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/Globo_EPTV.png",PT-   GLOBO HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133192
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://sw-apps.net/nettv_logo/logos2/globonow.png",PT-   Globo Now  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128814
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/Globo_RPC_TV.png",PT-   GLOBO NOW HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122389
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/GLOBO%20TV_CABUGI.png",PT-   GLOBO PORTUGAL HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122353
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/hollywoodhd.png",PT-   HOLLYWOOD  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128843
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/hollywoodhd.png",PT-   HOLLYWOOD HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122316
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/hollywoodhd.png",PT-   HOLLYWOOD HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133214
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/jimjamcz.png",PT-   JIM JAM  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128826
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/jimjamcz.png",PT-   JIM JAM HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122355
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kombatsporthd.png",PT-   KOMBAT SPORT HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122356
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kuriakostvhd.png",PT-   KURIAKOS TV  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128817
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/mcmpop.png",PT-   MCM POP  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128821
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/mcmfrance.png",PT-   MCM POP HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122358
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/mcmfrance.png",PT-   MCM TOP HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122359
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/motorvisionchannel.png",PT-   MOTORVISION HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122361
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/MTV-HD.png",PT-   MTV PORTUGAL  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128819
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/laz.mtv_hd.png",PT-   MTV PORTUGAL HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122362
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CUISINES-TV.jpg",PT-   MY CUISINE HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122390
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/ngcwildce.png",PT-   NAT GEO WILD HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122363
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/natgeographics.png",PT-   National Geographic FHD PT
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122299
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nickjrhdfrance.png",PT-   NICK JR  HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122364
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nickelodeonn.png",PT-   NICKELODEON
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122365
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nickelodeonczechsvt.png",PT-   Nickelodeon  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128829
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nosstudioshd.png",PT-   NOS STUDIOS FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122366
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/nosstudioshd.png",PT-   NOS STUDIOS HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133213
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/odisseia.png",PT-   Odisseia  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128812
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/odisseia.png",PT-   ODISSEIA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122367
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/biggs.png",PT-   PANDA BIGGS  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128828
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/pandakids.png",PT-   PANDA BIGSS HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122368
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/pfc.png",PT-   PFC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122369
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/portocanal.png",PT-   PORTO CANAL  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128806
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTP-BOL.png",PT-   RTP 1  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128787
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTPA-ASTURIAS.png",PT-   RTP 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122289
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTPA-ASTURIAS.png",PT-   RTP 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122288
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTP-BOL.png",PT-   RTP 1 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133186
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTP-BOL.png",PT-   RTP 2  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128788
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTPA-ASTURIAS.png",PT-   RTP 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122291
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTPA-ASTURIAS.png",PT-   RTP 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122290
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTP-BOL.png",PT-   RTP 2 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133187
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTP-BOL.png",PT-   RTP 3  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128789
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTPA-ASTURIAS.png",PT-   RTP 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122293
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTPA-ASTURIAS.png",PT-   RTP 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122292
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTP-BOL.png",PT-   RTP ACORES  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128791
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTPA-ASTURIAS.png",PT-   RTP ACORES HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122294
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTPA-ASTURIAS.png",PT-   RTP Africa HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122297
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTP-BOL.png",PT-   RTP MADEIRA  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128790
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTPA-ASTURIAS.png",PT-   RTP MADEIRA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122295
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTP-BOL.png",PT-   RTP MEMORIA  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128794
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/RTPA-ASTURIAS.png",PT-   RTP MEMORIA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122296
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sic.png",PT-   SIC  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128803
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sic.png",PT-   SIC Caras  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128793
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sic.png",PT-   SIC Caras HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122309
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sick.png",PT-   SIC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122372
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sic.png",PT-   SIC HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133188
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sick.png",PT-   SIC K  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128827
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sick.png",PT-   SIC Kids
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122373
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sick.png",PT-   Sic Kids HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122374
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sic.png",PT-   SIC MULHER  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128797
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sic.png",PT-   Sic Mulher HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122308
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sic.png",PT-   SIC NOTICIAS  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128802
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sic.png",PT-   SIC RADICAL  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128796
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sic.png",PT-   SIC Radical HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122310
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV   HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133193
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122395
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122394
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 1 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133194
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122397
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122396
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 2 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133195
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122399
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122398
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv3.png",PT-   SPORT TV 3 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133196
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 4 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122401
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122400
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv5.png",PT-   Sport TV 4 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133197
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 5 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122403
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV 5 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122402
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv5.png",PT-   Sport Tv 5 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133198
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV NBA  FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122404
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sporttv1.png",PT-   SPORT TV+ HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122393
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sportingtv.png",PT-   Sporting TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122392
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/sportingtv.png",PT-   SPORTING TV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122375
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://sw-apps.net/nettv_logo/logos2/syfy.png",PT-   SYFY  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128842
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SYFY---HD.png",PT-   SYFY HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122320
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/SYFY---HD.png",PT-   SYFY-HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122376
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="netv.live/logo_nettv/nettv_logo/logos/tcvcabo.gif",PT-   TCV  Cabo
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/56881
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="netv.live/logo_nettv/nettv_logo/logos/tcvcabo.gif",PT-   TCV Cabo Verde
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/91249
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/023tlc.png",PT-   TLC  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128841
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/023tlc.png",PT-   TLC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122377
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/toroshd.png",PT-   TOROS TV  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128804
+#EXTINF:-1 group-title="EU- PT SPORTS" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/toroshd.png",PT-   TOROS TV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122378
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tpa.jpg",PT-   TPA 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122360
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tpai.png",PT-   TPA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122379
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/Traceurban_HD.png",PT-   Trace Urban  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128822
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/TRAVEL-CHANNEL-HD.png",PT-   TRAVEL CHANNEL FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122380
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvnova.png",PT-   TV Canção Nova Portugal  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128813
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvcineaction.jpg",PT-   TV Cine Action
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128833
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvcineemotionhd.png",PT-   TV Cine Emotion
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128835
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvcinetop.png",PT-   TV Cine Top  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128834
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/GLOBO-PORTUGAL.png",PT-   TV Globo
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/88266
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/globo_sp_opt.png",PT-   TV GLOBO  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128815
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvrecord.png",PT-   TV RECORD  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128816
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/recordtvsd.png",PT-   TV RECORD HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122381
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CINE-TV.jpg",PT-   TVCINE 3 EMOTION HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122313
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CINE-TV.jpg",PT-   TVCINE ACTION HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122314
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/promotvcines.png",PT-   TVCINE ACTION HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133205
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CINE-TV.jpg",PT-   TVCINE EDITION HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122312
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/promotvcines.png",PT-   TVCINE EDITION HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133203
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvcineemotionhd.png",PT-   TVCINE EMOTION HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122382
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/promotvcines.png",PT-   TVCINE EMOTON HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133204
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/kuriakostvhd.png",PT-   TVCine KURIAKOS HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217231
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/CINE-TV.jpg",PT-   TVCINE TOP HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122311
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/promotvcines.png",PT-   TVCINE TOP HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133202
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvi.png",PT-   TVI  HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122383
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvi.png",PT-   TVI  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128801
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvi.png",PT-   TVI 24  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128799
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvi.png",PT-   TVI 24 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122384
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvi.png",PT-   TVI FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/104884
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/FIC%C3%87%C3%83O-CIENT%C3%8DFICA.png",PT-   TVI FICCAO  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128795
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvificcao.png",PT-   TVI FICCAO HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122385
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvi.png",PT-   TVI HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/104881
+#EXTINF:-1 group-title="EU- PORTUGAL HEVC" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvi.png",PT-   TVI HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/133189
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvi.png",PT-   TVI Reality  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128800
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/tvireality.png",PT-   TVI REALITY HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122386
+#EXTINF:-1 group-title="EU- PORTUGAL SD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/Vh1_megahits.png",PT-   VH1  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/128823
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/zapviva.jpg",PT-   ZAP VIVA FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122388
+#EXTINF:-1 group-title="EU- PORTUGAL HD/FHD" tvg-logo="http://netv.live/logo_nettv/nettv_logo/logos/portocanal.png",PT-  Porto Canal
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/122315
+#EXTINF:-1 group-title="Religious" tvg-logo="http://www.puctvgoias.com.br/img/logo.png",PUC TV Goiás (180p)
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1-1.png",Rede Massa SBT (720p)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/nc95BPy.png",Rede RC (360p)
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png",RTP Internacional (480p)
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png",RTP1
+http://162.212.178.69:41042/bysid/608
+#EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/KxYsq1d.png",Santa Cecilia TV (288p)
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/jYIf7Mz.png",Sobrenatural TV (1080p)
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 2 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 3 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 4 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png",TNT Sports 5 Brasil (720p)
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 group-title="Legislative" tvg-logo="https://i.imgur.com/5fyGrm5.png",TV ALMG
+https://streaming.almg.gov.br/live/tvalmg.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://rd1.com.br/wp-content/uploads/2015/11/tv_aparecida.png",TV Aparecida (1080p)
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/ejp65zr.png",TV BNO (270p)
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1 group-title="Legislative" tvg-logo="https://i.imgur.com/UpV2PRk.png",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="Legislative" tvg-logo="https://i.imgur.com/UpV2PRk.png",TV Câmara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 group-title="Legislative" tvg-logo="https://i.imgur.com/e8zZuyq.jpg",TV Camara de Sao Paulo (720p)
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1 group-title="Local",TV Cidade Canal 9 (720p)
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/bEoN2tt.png",TV Cinec (720p)
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://pa.srvsite.com/arquivos/3807/cabecalho-3807-20180828105442.jpg",TV Destak (360p)
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/uBntXf1.png",TV Diário do Sertão (720p)
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/VqIzaFz.png",TV Digital Birigui (320p)
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png",TV Galega Blumenau (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 group-title="Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png",TV Mackenzie (480p)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png",TV Pai Eterno (480p)
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/3lxkJxb.png",TV Paraná Turismo [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png",TV Sol Comunidade (480p)
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif",TV Terceiro Anjo (360p) [Not 24/7]
+https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="http://tvunisantos.com.br/upload/612Logo%20TV%20Unisantos.JPG",TV UniSantos
+http://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/TIsk5zN.png",TV Universal
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/1mK39TC.png",TV Verdes Campos (360p)
+https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png",TVE Bahia [Not 24/7]
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_5.png",TVM (480p)
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://online.tvm.co.mz/site/public/images/flat_1.png",TVM Internacional (480p)
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/Cywnp02.png",TVN Brasil (720p)
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Education",UniTV Porto Alegre
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/59lAsao.png",澳門-MACAU (720p)
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
